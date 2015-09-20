@@ -1,0 +1,25 @@
+From 2c18ddbba5071992d380cf31989aabfdf6e6ca52 Mon Sep 17 00:00:00 2001
+From: Zhiyuan Zou <zouzhiyuanzju@gmail.com>
+Date: Sat, 19 Sep 2015 20:34:59 -0500
+Subject: [PATCH] commit for De patch
+
+---
+ HelloWorld/src/HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/HelloWorld/src/HelloWorld.java b/HelloWorld/src/HelloWorld.java
+index b316ea1..0a9b78c 100644
+--- a/HelloWorld/src/HelloWorld.java
++++ b/HelloWorld/src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Hallo Welt!");
+ 	}
+ 
+ }
+-- 
+1.9.3 (Apple Git-50)
+
