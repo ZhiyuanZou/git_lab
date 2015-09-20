@@ -1,0 +1,25 @@
+From 5c348f0f4e9a6604af5b9f81eb8f792e9e71581b Mon Sep 17 00:00:00 2001
+From: Zhiyuan Zou <zouzhiyuanzju@gmail.com>
+Date: Sat, 19 Sep 2015 20:48:49 -0500
+Subject: [PATCH] commit for Fr patch
+
+---
+ HelloWorld/src/HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/HelloWorld/src/HelloWorld.java b/HelloWorld/src/HelloWorld.java
+index b316ea1..17e0676 100644
+--- a/HelloWorld/src/HelloWorld.java
++++ b/HelloWorld/src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Bonjour, monde!");
+ 	}
+ 
+ }
+-- 
+1.9.3 (Apple Git-50)
+
